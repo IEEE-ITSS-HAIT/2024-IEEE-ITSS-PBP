@@ -1,6 +1,6 @@
-# 2nd ITSS Student Competition in Pedestrian Behavior Prediction
+# 2nd IEEE ITSS Student Competition in Pedestrian Behavior Prediction
 
-Welcome to the official repository for the 2nd ITSS Student Competition in Pedestrian Behavior Prediction. This competition is organized by the IEEE ITSS Technical Committee on Human-Centered AI in Transportation (HAIT) and focuses on advancing AI technologies for predicting pedestrian behavior in the context of intelligent transportation systems.
+Welcome to the official repository for the 2nd IEEE ITSS Student Competition in Pedestrian Behavior Prediction. This competition is organized by the IEEE Intelligent Transportation Systems Society Technical Committee on Human-Centered AI in Transportation (HAIT) and focuses on advancing AI technologies for predicting pedestrian behavior in the context of intelligent transportation systems.
 
 ## Competition Overview
 
