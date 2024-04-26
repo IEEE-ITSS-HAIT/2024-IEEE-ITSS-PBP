@@ -115,6 +115,14 @@ All assets and code in this repository are under the [Apache 2.0 license](./LICE
 
 
 ## Other Resources <a name="otherresources"></a>
+
+**Privious Competitions**
+
+
+**Pedestrian Behavior Benchmark Datasets**
+
+
+
 <a href="https://twitter.com/OpenDriveLab" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/OpenDriveLab?style=social&color=brightgreen&logo=twitter" />
   </a>
