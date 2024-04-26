@@ -84,21 +84,6 @@ This competition is organized by the IEEE ITSS Technical Committee on **H**uman-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Current Endeavors and Future Directions  <a name="timeline"></a>
-> 
-
-<p align="center">
-  <img src="assets/images/repo/drivelm_timeline_v3.jpg">
-</p>
-
-Our contest attempts to address some of the challenges faced by the community.
-
-- **Lack of standard metircs**:
-- **challenges 2**
-- **etc**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ## Dataset Information <a name="dataset"></a>
 
