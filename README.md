@@ -18,8 +18,5 @@
 
 <h1 align="center">Stay tuned for more information coming soon!</h1>
 
-## Organizer
-
-The competition is organized by the IEEE ITSS Technical Committee on Human-Centered AI in Transportation (HAIT).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
