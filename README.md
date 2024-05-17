@@ -1,11 +1,4 @@
-<div align="center">
-  <embed src="images/Flyer_3.pdf" width="600" height="500" type="application/pdf">
-  <br>
-  <br>
-  <strong>2nd IEEE ITSS Student Competition in Pedestrian Behavior Prediction</strong>
-  <br>
-  <br>
-</div>
+
 
 
 
