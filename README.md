@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/flyer.PNG">
+  <img src="images/Flyer_3.PNG">
 
   <br>
   <br>
