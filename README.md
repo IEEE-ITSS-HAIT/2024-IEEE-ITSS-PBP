@@ -1,5 +1,5 @@
 
-## Welcome to the 2nd IEEE ITSS Student Competition in Pedestrian Behavior Prediction!
+## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
 ![Flyer](images/Flyer_3.png)
 
