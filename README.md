@@ -22,7 +22,13 @@ We invite competitors from all around the world. Each team's leader must be a cu
 ## Important Dates
 - **Competition Begins:** June 15th
 - **Submission Deadline:** August 15th
+## Get Started
 
+### Sample Data
+[Instructions or link to sample data]
+
+### Train and Validation Data
+[Instructions or link to train and validation data]
 ## Evaluation Guidelines
 [Placeholder for evaluation guidelines]
 
