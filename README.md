@@ -1,6 +1,62 @@
 
 ## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
+## Video Demo
+[Placeholder for a video]
+
+## Background
+Pedestrian behavior prediction is one of the most critical challenges for fully automated driving in urban settings. It requires autonomous vehicles to interact safely and efficiently with pedestrians in diverse and dynamic environments. Accurate and robust pedestrian behavior prediction is crucial to ensure the safety of both pedestrians and autonomous vehicles.
+
+## Competition Tasks
+- **Short-Term Pedestrian Trajectory Prediction (ST-PTP)**
+- **Long-Term Pedestrian Trajectory Prediction (LT-PTP)**
+
+PTP forecasts a pedestrian's future trajectory from a bird's-eye view, using observed data from six surrounding cameras and lidar. The Short-Term Prediction (ST) targets a 3-second future path, while the Long-Term Prediction (LT) extends to 7 seconds.
+
+## Eligibility
+We invite competitors from all around the world. Each team's leader must be a current undergraduate or graduate student. Teams are limited to entering one track only.
+
+## Prizes
+![Placeholder for a prize image](file-Sy85iu64zALlDTEwthTUWH9p)
+
+## Important Dates
+- **Competition Begins:** June 15th
+- **Submission Deadline:** August 15th
+
+## Evaluation Guidelines
+[Placeholder for evaluation guidelines]
+
+## Steering Committee
+- **Professor 1**
+  - ![Professor 1 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - Affiliation
+- **Professor 2**
+  - ![Professor 2 Image](file-nDJKa77WK0Nq1GiMhwojjXtR)
+  - Affiliation
+- **Professor 3**
+  - ![Professor 3 Image](file-KgQxuJ30J0DSRcgAXKZf88R5)
+  - Affiliation
+
+## Organizers
+- **Organizer 1**
+  - ![Organizer 1 Image](file-Sy85iu64zALlDTEwthTUWH9p)
+  - Affiliation
+- **Organizer 2**
+  - ![Organizer 2 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - Affiliation
+- **Organizer 3**
+  - ![Organizer 3 Image](file-nDJKa77WK0Nq1GiMhwojjXtR)
+  - Affiliation
+- **Organizer 4**
+  - ![Organizer 4 Image](file-KgQxuJ30J0DSRcgAXKZf88R5)
+  - Affiliation
+- **Organizer 5**
+  - ![Organizer 5 Image](file-Sy85iu64zALlDTEwthTUWH9p)
+  - Affiliation
+- **Organizer 6**
+  - ![Organizer 6 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - Affiliation
+
 ![Flyer](images/Flyer_3.png)
 
 :bulb: This competition focuses on Short-Term Pedestrian Trajectory Prediction (ST-PTP) and Long-Term Pedestrian Trajectory Prediction (LT-PTP). PTP forecasts a pedestrian's future trajectory from a bird's-eye view, utilizing observed data from six surrounding cameras and lidar. The Short-Term Prediction (ST) targets a 3-second future path, while the Long-Term Prediction (LT) extends to 7 seconds.
