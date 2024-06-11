@@ -41,33 +41,33 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
    - **Definition:** ADE measures the average Euclidean distance between the predicted trajectory and the ground truth trajectory over all annotated key points.
    - **Formula:** 
      ```markdown
-     ADE = \frac{1}{K} \sum_{k=1}^{K} \sqrt{(x_k - \hat{x}_k)^2 + (y_k - \hat{y}_k)^2}
+     ADE = (1 / K) * Σ[ sqrt((x_k - x̂_k)² + (y_k - ŷ_k)²) ]
      ```
-     where `K` is the total number of annotated key points, `(x_k, y_k)` is the ground truth position at key point `k`, and `(\hat{x}_k, \hat{y}_k)` is the predicted position at key point `k`.
+     where `K` is the total number of annotated key points, `(x_k, y_k)` is the ground truth position at key point `k`, and `(x̂_k, ŷ_k)` is the predicted position at key point `k`.
 
 2. **Final Displacement Error (FDE)**
    - **Definition:** FDE measures the Euclidean distance between the predicted final position and the ground truth final position at the last annotated key point.
    - **Formula:**
      ```markdown
-     FDE = \sqrt{(x_K - \hat{x}_K)^2 + (y_K - \hat{y}_K)^2}
+     FDE = sqrt((x_K - x̂_K)² + (y_K - ŷ_K)²)
      ```
-     where `K` is the final annotated key point, `(x_K, y_K)` is the ground truth final position, and `(\hat{x}_K, \hat{y}_K)` is the predicted final position.
+     where `K` is the final annotated key point, `(x_K, y_K)` is the ground truth final position, and `(x̂_K, ŷ_K)` is the predicted final position.
 
 3. **Miss Rate (MR)**
    - **Definition:** MR is the proportion of predicted trajectories that are further away from the ground truth trajectory by a certain threshold at the final annotated key point.
    - **Formula:**
      ```markdown
-     MR = \frac{1}{N} \sum_{i=1}^{N} \mathbf{1}(\sqrt{(x_K^i - \hat{x}_K^i)^2 + (y_K^i - \hat{y}_K^i)^2} > \delta)
+     MR = (1 / N) * Σ[ 1(sqrt((x_K^i - x̂_K^i)² + (y_K^i - ŷ_K^i)²) > δ) ]
      ```
-     where `N` is the total number of predicted trajectories, `\mathbf{1}` is the indicator function, and `\delta` is the distance threshold.
+     where `N` is the total number of predicted trajectories, `1` is the indicator function, and `δ` is the distance threshold.
 
 4. **Collision Rate (CR)**
    - **Definition:** CR measures the percentage of predicted trajectories that collide with static or dynamic obstacles in the environment, calculated based on all points of the trajectories.
    - **Formula:**
      ```markdown
-     CR = \frac{1}{N} \sum_{i=1}^{N} \mathbf{1}(\text{collision}(i))
+     CR = (1 / N) * Σ[ 1(collision(i)) ]
      ```
-     where `\text{collision}(i)` indicates whether the `i`-th predicted trajectory collides with any obstacle.
+     where `collision(i)` indicates whether the `i`-th predicted trajectory collides with any obstacle.
 
 ### Evaluation Procedure
 
@@ -90,6 +90,8 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 6. **Ranking**
    - Teams will be ranked based on their final scores. In the event of a tie, the team with the lower FDE will be ranked higher.
+
+
 
 
 
