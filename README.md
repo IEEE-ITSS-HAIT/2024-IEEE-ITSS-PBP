@@ -62,34 +62,32 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
      where `N` is the total number of predicted trajectories, `1` is the indicator function, and `δ` is the distance threshold.
 
 4. **Collision Rate (CR)**
-   - **Definition:** CR measures the percentage of predicted trajectories that collide with static or dynamic obstacles in the environment, calculated based on all points of the trajectories.
+   - **Definition:** CR measures the percentage of predicted trajectories that collide with the other agents in the environment, calculated based on all points of the trajectories.
    - **Formula:**
      ```markdown
      CR = (1 / N) * Σ[ 1(collision(i)) ]
      ```
      where `collision(i)` indicates whether the `i`-th predicted trajectory collides with any obstacle.
+### Important Notes
 
-### Evaluation Procedure
+1. **Submission Format**
+   - Participants must submit their predicted trajectories in a predefined format. Each submission should include the predicted coordinates for each pedestrian at each time step within the prediction horizon.
 
-1. **Data Splitting**
-   - The dataset will be divided into training, validation, and test sets. The training and validation sets will be provided to participants for model development and tuning, while the test set will be used for final evaluation.
+2. **Data Splitting**
+   - The dataset will be divided into training, validation, and test sets. The training and validation sets will be provided to participants for model development and tuning. We will run a dry run on the validation set in our competition platform for you to test your results format, while the test set will be used for final evaluation.
 
-2. **Prediction Horizon**
+3. **Prediction Horizon**
    - Short-Term Prediction (ST-PTP): Predicting the pedestrian trajectory for the next 3 seconds.
    - Long-Term Prediction (LT-PTP): Predicting the pedestrian trajectory for the next 7 seconds.
 
-3. **Frame Rate Adjustment**
+4. **Frame Rate Adjustment**
    - The annotated data are provided at 1 FPS, but the output trajectory needs to be at 5 FPS. Participants must ensure their predicted trajectories are interpolated to meet this requirement.
 
-4. **Submission Format**
-   - Participants must submit their predicted trajectories in a predefined format. Each submission should include the predicted coordinates for each pedestrian at each time step within the prediction horizon.
+### Evaluation Procedure
 
-5. **Scoring**
-   - Submissions will be evaluated based on the ADE and FDE metrics, calculated only on the annotated key points. Additional metrics such as MR and CR will be considered for assessing the safety and feasibility of the predicted trajectories. The CR will be calculated based on all the points of the trajectories.
-   - The final ranking will be based on the average ranking of all metrics.
+- Submissions will be evaluated based on all metrics, where ADE, FDE, and MR are calculated only on the annotated key points. The CR will be calculated based on all the points of the trajectories.
+- The final ranking will be based on the average ranking of all metrics.
 
-6. **Ranking**
-   - Teams will be ranked based on their final scores. In the event of a tie, the team with the lower FDE will be ranked higher.
 
 
 
