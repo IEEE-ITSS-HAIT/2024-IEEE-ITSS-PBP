@@ -21,7 +21,7 @@ We invite competitors from all around the world. Each team's leader must be a cu
 
 ## Important Dates
 - **Competition Begins:** June 15th
-- **Dry Run: ** August 10th
+- **Dry Run:** August 10th
 - **Submission Deadline:** August 15th
 ## Get Started
 
@@ -87,10 +87,6 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 - Submissions will be evaluated based on all metrics, where ADE, FDE, and MR are calculated only on the annotated key points. The CR will be calculated based on all the points of the trajectories.
 - The final ranking will be based on the average ranking of all metrics.
-
-
-
-
 
 
 ## Steering Committee
