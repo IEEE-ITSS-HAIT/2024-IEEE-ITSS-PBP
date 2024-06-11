@@ -24,7 +24,20 @@ We invite competitors from all around the world. Each team's leader must be a cu
 - **Dry Run:** August 10th
 - **Submission Deadline:** August 15th
 ## Get Started
+### Data Description
+Our dataset consists of a total of 500 scenarios, which are split into training, validation, and test sets with a ratio of 70%, 10%, and 20%, respectively. Each scenario is at least 20 seconds long. The data provided includes:
 
+- **Lidar Frame:** Captured at 10 FPS, with annotations provided at 1 FPS.
+- **Surrounding Cameras:** Six camera images captured at 10 FPS.
+- **Extrinsic and Intrinsic Matrix:** Provided for calibration.
+
+The annotations on the lidar frame include the following objects:
+- Pedestrian
+- E-scooter
+- Bicyclist
+- Vehicle
+- Bus
+- Traffic light/sign
 ### Sample Data
 [Instructions or link to sample data]
 
