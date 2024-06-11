@@ -31,7 +31,7 @@ We invite competitors from all around the world. Each team's leader must be a cu
 ### Train and Validation Data
 [Instructions or link to train and validation data]
 ## Evaluation Guidelines
-## Evaluation Guidelines for IEEE ITSS Student Competition on Pedestrian Behavior Prediction
+ **All the metrics are averaged over the test samples.**
 
 To ensure the accuracy and robustness of the pedestrian behavior prediction models, the following evaluation metrics will be used:
 
