@@ -2,7 +2,7 @@
 ## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
 ## Video Demo
-[![Video Demo](https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/blob/competition_release_1.0/images/title.png)](https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/assets/79834399/d6f0c718-6e91-46c7-ba65-03ce0c46a8f5)
+https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/assets/79834399/9d83365a-aedf-483e-9822-757f4854dde9
 
 ## Background
 Pedestrian behavior prediction is one of the most critical challenges for fully automated driving in urban settings. It requires autonomous vehicles to interact safely and efficiently with pedestrians in diverse and dynamic environments. Accurate and robust pedestrian behavior prediction is crucial to ensure the safety of both pedestrians and autonomous vehicles.
