@@ -2,7 +2,7 @@
 ## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
 ## Video Demo
-videos/demo_ppt.mp4
+[![ITSS Competition](https://res.cloudinary.com/marcomontalbano/image/upload/v1718417249/video_to_markdown/images/youtube--vyJIcsT9dcg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vyJIcsT9dcg "ITSS Competition")
 
 ## Background
 Pedestrian behavior prediction is one of the most critical challenges for fully automated driving in urban settings. It requires autonomous vehicles to interact safely and efficiently with pedestrians in diverse and dynamic environments. Accurate and robust pedestrian behavior prediction is crucial to ensure the safety of both pedestrians and autonomous vehicles.
