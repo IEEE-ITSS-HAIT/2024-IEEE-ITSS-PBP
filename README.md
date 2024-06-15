@@ -3,7 +3,7 @@
 
 ## Video Demo
 <video width="600" controls autoplay loop>
-  <source src="https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/blob/competition_release_1.0/videos/demo_ppt.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/raw/competition_release_1.0/videos/demo_ppt.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
