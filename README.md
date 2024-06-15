@@ -40,6 +40,7 @@ The annotations on the lidar frame include the following objects:
 - Traffic light/sign
 ### Sample Data
 [Instructions or link to sample data]
+[Lidar and labels of the sample data](https://drive.google.com/file/d/1RVInTC1yG89C3vW4_0yieEs1MhHqNcJs/view?usp=sharing)
 
 ### Train and Validation Data
 [Instructions or link to train and validation data]
