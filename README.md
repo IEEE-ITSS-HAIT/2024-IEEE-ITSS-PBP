@@ -2,7 +2,6 @@
 ## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
 ## Video Demo
-[![ITSS Competition](https://res.cloudinary.com/marcomontalbano/image/upload/v1718417249/video_to_markdown/images/youtube--vyJIcsT9dcg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vyJIcsT9dcg "ITSS Competition")
 https://github.com/IEEE-ITSS-HAIT/2024-IEEE-ITSS-PBP/assets/79834399/d6f0c718-6e91-46c7-ba65-03ce0c46a8f5
 
 ## Background
