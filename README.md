@@ -20,9 +20,9 @@ We invite competitors from all around the world. Each team's leader must be a cu
 ![Placeholder for a prize image](file-Sy85iu64zALlDTEwthTUWH9p)
 
 ## Important Dates
-- **Competition Begins:** June 15th
-- **Dry Run:** August 10th
-- **Submission Deadline:** August 15th
+- **Data Demo:** June 15th
+- **Competition Begins:** July 15th
+- **Submission Deadline:** September 15th
 ## Get Started
 ### Data Description
 Our dataset consists of a total of 500 scenarios, which are split into training, validation, and test sets with a ratio of 70%, 10%, and 20%, respectively. Each scenario is at least 20 seconds long. The data provided includes:
