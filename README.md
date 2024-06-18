@@ -17,7 +17,7 @@ PTP forecasts a pedestrian's future trajectory from a bird's-eye view, using obs
 We invite competitors from all around the world. Each team's leader must be a current undergraduate or graduate student. Teams are limited to entering one track only.
 
 ## Prizes
-![Placeholder for a prize image](file-Sy85iu64zALlDTEwthTUWH9p)
+![Placeholder for a prize image](images/prize.png)
 
 ## Important Dates
 - **Data Demo:** June 15th
