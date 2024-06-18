@@ -104,34 +104,35 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 ## Steering Committee
 - **Professor 1**
-  - <img src="images/nobuyuki.png" alt="Professor 1 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/nobuyuki.png" alt="Professor 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Professor 2**
-  - <img src="images/lingxili.png" alt="Professor 2 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/lingxili.png" alt="Professor 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Professor 3**
-  - <img src="images/chenjing.png" alt="Professor 3 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/chenjing.png" alt="Professor 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 
 ## Organizers
 - **Organizer 1**
-  - <img src="images/yaobin.png" alt="Organizer 1 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/yaobin.png" alt="Organizer 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 2**
-  - <img src="images/dingzhengming.png" alt="Organizer 2 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/dingzhengming.png" alt="Organizer 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 3**
-  - <img src="images/huxin.png" alt="Organizer 3 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/huxin.png" alt="Organizer 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 4**
-  - <img src="images/renran.png" alt="Organizer 4 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/renran.png" alt="Organizer 4 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 5**
-  - <img src="file-Sy85iu64zALlDTEwthTUWH9p" alt="Organizer 5 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="file-Sy85iu64zALlDTEwthTUWH9p" alt="Organizer 5 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 6**
-  - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
+  - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
+
 
 
 ![Flyer](images/Flyer_3.png)
