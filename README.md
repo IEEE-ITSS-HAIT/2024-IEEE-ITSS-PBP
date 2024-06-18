@@ -103,35 +103,24 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 
 ## Steering Committee
-- **Nobuyuki Ozaki**
-  - <img src="images/nobuyuki.png" alt="Professor 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Nagoya University
-- **Lingxi Li**
-  - <img src="images/lingxili.png" alt="Professor 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Purdue University
-- **Jing Chen**
-  - <img src="images/chenjing.png" alt="Professor 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Rice University
+
+|       |       |
+|-------|-------|
+| <img src="images/nobuyuki.png" alt="Nobuyuki Ozaki" height="100" style="display: inline-block; margin-right: 10px;"> | **Nobuyuki Ozaki**<br>Nagoya University |
+| <img src="images/lingxili.png" alt="Lingxi Li" height="100" style="display: inline-block; margin-right: 10px;"> | **Lingxi Li**<br>Purdue University |
+| <img src="images/chenjing.png" alt="Jing Chen" height="100" style="display: inline-block; margin-right: 10px;"> | **Jing Chen**<br>Rice University |
 
 ## Organizers
-- **Yaobin Chen**
-  - <img src="images/yaobin.png" alt="Organizer 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Purdue University
-- **Zhengming Ding**
-  - <img src="images/dingzhengming.png" alt="Organizer 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Tulane University
-- **Xin Hu**
-  - <img src="images/huxin.png" alt="Organizer 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Tulane Univeristy
-- **Renran Tian**
-  - <img src="images/renran.png" alt="Organizer 4 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - North Carolina State University
-- **Shaozhi Wang**
-  - <img src="images/shaozhi.png" alt="Organizer 5 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - North Carolina State University
-- **Zhengming Zhang**
-  - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" height="100" style="display: inline-block; margin-right: 10px;">
-  - Purdue University
+
+|       |       |
+|-------|-------|
+| <img src="images/yaobin.png" alt="Yaobin Chen" height="100" style="display: inline-block; margin-right: 10px;"> | **Yaobin Chen**<br>Purdue University |
+| <img src="images/dingzhengming.png" alt="Zhengming Ding" height="100" style="display: inline-block; margin-right: 10px;"> | **Zhengming Ding**<br>Tulane University |
+| <img src="images/huxin.png" alt="Xin Hu" height="100" style="display: inline-block; margin-right: 10px;"> | **Xin Hu**<br>Tulane University |
+| <img src="images/renran.png" alt="Renran Tian" height="100" style="display: inline-block; margin-right: 10px;"> | **Renran Tian**<br>North Carolina State University |
+| <img src="images/shaozhi.png" alt="Shaozhi Wang" height="100" style="display: inline-block; margin-right: 10px;"> | **Shaozhi Wang**<br>North Carolina State University |
+| <img src="images/zhengmingzhang.png" alt="Zhengming Zhang" height="100" style="display: inline-block; margin-right: 10px;"> | **Zhengming Zhang**<br>Purdue University |
+
 
 
 
