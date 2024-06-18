@@ -104,33 +104,33 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 ## Steering Committee
 - **Professor 1**
-  - ![Professor 1 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - ![Professor 1 Image](images/nobuyuki.png)
   - Affiliation
 - **Professor 2**
-  - ![Professor 2 Image](file-nDJKa77WK0Nq1GiMhwojjXtR)
+  - ![Professor 2 Image](images/lingxili.png)
   - Affiliation
 - **Professor 3**
-  - ![Professor 3 Image](file-KgQxuJ30J0DSRcgAXKZf88R5)
+  - ![Professor 3 Image](images/chenjing.png)
   - Affiliation
 
 ## Organizers
 - **Organizer 1**
-  - ![Organizer 1 Image](file-Sy85iu64zALlDTEwthTUWH9p)
+  - ![Organizer 1 Image](images/yaobin.png)
   - Affiliation
 - **Organizer 2**
-  - ![Organizer 2 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - ![Organizer 2 Image](images/dingzhengming.png)
   - Affiliation
 - **Organizer 3**
-  - ![Organizer 3 Image](file-nDJKa77WK0Nq1GiMhwojjXtR)
+  - ![Organizer 3 Image](images/huxin.png)
   - Affiliation
 - **Organizer 4**
-  - ![Organizer 4 Image](file-KgQxuJ30J0DSRcgAXKZf88R5)
+  - ![Organizer 4 Image](images/renran.png)
   - Affiliation
 - **Organizer 5**
   - ![Organizer 5 Image](file-Sy85iu64zALlDTEwthTUWH9p)
   - Affiliation
 - **Organizer 6**
-  - ![Organizer 6 Image](file-3oKWflsxpzSyO7G5D7W3GqDQ)
+  - ![Organizer 6 Image](images/zhengmingzhang.png)
   - Affiliation
 
 ![Flyer](images/Flyer_3.png)
