@@ -104,34 +104,35 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 ## Steering Committee
 - **Professor 1**
-  - ![Professor 1 Image](images/nobuyuki.png)
+  - <img src="images/nobuyuki.png" alt="Professor 1 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Professor 2**
-  - ![Professor 2 Image](images/lingxili.png)
+  - <img src="images/lingxili.png" alt="Professor 2 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Professor 3**
-  - ![Professor 3 Image](images/chenjing.png)
+  - <img src="images/chenjing.png" alt="Professor 3 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 
 ## Organizers
 - **Organizer 1**
-  - ![Organizer 1 Image](images/yaobin.png)
+  - <img src="images/yaobin.png" alt="Organizer 1 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 2**
-  - ![Organizer 2 Image](images/dingzhengming.png)
+  - <img src="images/dingzhengming.png" alt="Organizer 2 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 3**
-  - ![Organizer 3 Image](images/huxin.png)
+  - <img src="images/huxin.png" alt="Organizer 3 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 4**
-  - ![Organizer 4 Image](images/renran.png)
+  - <img src="images/renran.png" alt="Organizer 4 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 5**
-  - ![Organizer 5 Image](file-Sy85iu64zALlDTEwthTUWH9p)
+  - <img src="file-Sy85iu64zALlDTEwthTUWH9p" alt="Organizer 5 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 6**
-  - ![Organizer 6 Image](images/zhengmingzhang.png)
+  - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" width="100" height="100" style="object-fit: cover; display: inline-block; margin-right: 10px;">
   - Affiliation
+
 
 ![Flyer](images/Flyer_3.png)
 
