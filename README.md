@@ -127,7 +127,7 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
   - <img src="images/renran.png" alt="Organizer 4 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 5**
-  - <img src="file-Sy85iu64zALlDTEwthTUWH9p" alt="Organizer 5 Image" height="100" style="display: inline-block; margin-right: 10px;">
+  - <img src="images/shaozhi.png" alt="Organizer 5 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Affiliation
 - **Organizer 6**
   - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" height="100" style="display: inline-block; margin-right: 10px;">
