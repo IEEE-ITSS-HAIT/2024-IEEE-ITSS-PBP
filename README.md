@@ -103,33 +103,33 @@ To ensure the accuracy and robustness of the pedestrian behavior prediction mode
 
 
 ## Steering Committee
-- **Professor 1**
+- **Nobuyuki Ozaki**
   - <img src="images/nobuyuki.png" alt="Professor 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Nagoya University
-- **Professor 2**
+- **Lingxi Li**
   - <img src="images/lingxili.png" alt="Professor 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Purdue University
-- **Professor 3**
+- **Jing Chen**
   - <img src="images/chenjing.png" alt="Professor 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Rice University
 
 ## Organizers
-- **Organizer 1**
+- **Yaobin Chen**
   - <img src="images/yaobin.png" alt="Organizer 1 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Purdue University
-- **Organizer 2**
+- **Zhengming Ding**
   - <img src="images/dingzhengming.png" alt="Organizer 2 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Tulane University
-- **Organizer 3**
+- **Xin Hu**
   - <img src="images/huxin.png" alt="Organizer 3 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Tulane Univeristy
-- **Organizer 4**
+- **Renran Tian**
   - <img src="images/renran.png" alt="Organizer 4 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - North Carolina State University
-- **Organizer 5**
+- **Shaozhi Wang**
   - <img src="images/shaozhi.png" alt="Organizer 5 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - North Carolina State University
-- **Organizer 6**
+- **Zhengming Zhang**
   - <img src="images/zhengmingzhang.png" alt="Organizer 6 Image" height="100" style="display: inline-block; margin-right: 10px;">
   - Purdue University
 
