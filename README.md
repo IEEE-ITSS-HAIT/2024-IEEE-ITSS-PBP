@@ -15,6 +15,7 @@ PTP forecasts a pedestrian's future trajectory from a bird's-eye view, using obs
 
 ## Eligibility
 We invite competitors from all around the world. Each team's leader must be a current undergraduate or graduate student. Teams are limited to entering one track only. 
+
 Winning teams are expected to present their results in the IEEE ITSC 2024 conference. 
 
 ## Prizes
@@ -46,7 +47,7 @@ The annotations on the lidar frame include the following objects:
 [Lidar and labels of the sample data](https://drive.google.com/file/d/1RVInTC1yG89C3vW4_0yieEs1MhHqNcJs/view?usp=sharing)
 
 ### Training and Validation Data
-[Instructions or link to training and validation data]
+Training and Validation Data will be released by July 15th when the competition starts.
 ## Evaluation Guidelines
  **All the metrics are averaged over the test samples.**
 
