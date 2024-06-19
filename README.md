@@ -14,15 +14,19 @@ Pedestrian behavior prediction is one of the most critical challenges for fully 
 PTP forecasts a pedestrian's future trajectory from a bird's-eye view, using observed data from six surrounding cameras and lidar. The Short-Term Prediction (ST) targets a 3-second future path, while the Long-Term Prediction (LT) extends to 7 seconds.
 
 ## Eligibility
-We invite competitors from all around the world. Each team's leader must be a current undergraduate or graduate student. Teams are limited to entering one track only.
+We invite competitors from all around the world. Each team's leader must be a current undergraduate or graduate student. Teams are limited to entering one track only. 
+Winning teams are expected to present their results in the IEEE ITSC 2024 conference. 
 
 ## Prizes
 ![Placeholder for a prize image](images/prize.png)
 
 ## Important Dates
+
+We postponed the competition's starting date by a month due to data preparation delays. Demo data with labels have now been released. We encourage interested teams to start preparing algorithms and use public benchmark datasets to pretrain their models.
+
 - **Data Demo:** June 15th
 - **Competition Begins:** July 15th
-- **Submission Deadline:** September 15th
+- **Submission Deadline:** September 5th
 ## Get Started
 ### Data Description
 Our dataset consists of a total of 500 scenarios, which are split into training, validation, and test sets with a ratio of 70%, 10%, and 20%, respectively. Each scenario is at least 20 seconds long. The data provided includes:
@@ -41,8 +45,8 @@ The annotations on the lidar frame include the following objects:
 ### Sample Data
 [Lidar and labels of the sample data](https://drive.google.com/file/d/1RVInTC1yG89C3vW4_0yieEs1MhHqNcJs/view?usp=sharing)
 
-### Train and Validation Data
-[Instructions or link to train and validation data]
+### Training and Validation Data
+[Instructions or link to training and validation data]
 ## Evaluation Guidelines
  **All the metrics are averaged over the test samples.**
 
