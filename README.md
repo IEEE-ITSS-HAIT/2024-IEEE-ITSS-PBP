@@ -5,12 +5,12 @@
 [![2nd IEEE ITSS Student Competition](https://res.cloudinary.com/marcomontalbano/image/upload/v1718665843/video_to_markdown/images/youtube--ONVloEjLUc0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ONVloEjLUc0 "2nd IEEE ITSS Student Competition")
 
 
-## Q&A Session
+## ❓ Q&A Session
 
-**Question 1: How to register for the competition?**
+### ❔ Question 1: How to register for the competition?
 - **Answer:** When the training and validation data are ready to be released, registration for the competition will open in Mid-July via the Codalab platform. Pre-registration is not needed to participate in the competition.
 
-**Question 2: Where to download the data?**
+### ❔ Question 2: Where to download the data?
 - **Answer:** As of June 15th, we have released the sample data with annotations. Full competition training and validation data will be released in Mid-July. Final testing data will be released in early September (September 4th as the tentative date).
 
 
