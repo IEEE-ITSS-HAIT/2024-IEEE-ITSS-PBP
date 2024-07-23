@@ -1,4 +1,4 @@
-## Notice of Delay: IEEE ITSS Student Competition on Pedestrian Behavior Prediction
+## ⚠️ Notice of Delay: IEEE ITSS Student Competition on Pedestrian Behavior Prediction ⚠️
 
 Dear Participants,
 
