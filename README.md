@@ -1,4 +1,16 @@
+## Notice of Delay: IEEE ITSS Student Competition on Pedestrian Behavior Prediction
 
+Dear Participants,
+
+We regret to inform you that due to unforeseen paperwork delays, we are unable to annotate and prepare the competition data on time. As a result, the IEEE ITSS Student Competition on Pedestrian Behavior Prediction will be postponed.
+
+We understand the inconvenience this may cause and sincerely apologize for it. We expect the data to be ready in another 1-2 months, and the competition is likely to resume in September when the fall semester begins. However, at this moment, we are unable to provide an exact timeline.
+
+We greatly appreciate your interest and enthusiasm for the IEEE ITSS Student Competition on Pedestrian Behavior Prediction. We ask for your patience and understanding as we work through these delays. Please keep an eye out for further updates and additional notices.
+
+Thank you for your continued support.
+
+---
 ## Welcome to the 2nd IEEE ITSS Student Competition on Pedestrian Behavior Prediction!
 
 ## Video Demo
